@@ -1,0 +1,1 @@
+alert("Этот файл создан для registerForm");
